@@ -1,0 +1,32 @@
+.succsess {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  
+  }
+  
+  .succsess-content {
+    background: #ffffff;
+    height: 480px;
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .succsess-content h1 {
+    Font-style: Medium;
+    Font-size: 44px;
+    Line-height: 77px;
+    Line-height: 100%;
+    Vertical-align: Top;
+    Color: #000000;
+  }
+  
+  .acsept{
+    width: 30px;
+    height: 30px;
+    
+  }
